@@ -8,3 +8,5 @@ This project is designed for you in the following five steps:
 * Studying the target markets: In the third step, we will analyze the sales and supply location and we will check in which countries despite having many customers, they experience low sales.
 * Valuing customers: In this step, we introduce a practical criterion called RFM and based on this criterion, we divide the company's customers into 7 categories, each of which has its own meaning and behavior in terms of marketing.
 * Analysis of customer retention: In the last step, we want to know what percentage of customers buy from this company in the following months after their first purchase.
+
+Finally, I would like to thank [Quera](https://quera.org/) for allowing me to publish this project.
